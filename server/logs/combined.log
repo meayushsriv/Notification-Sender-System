@@ -1,0 +1,113 @@
+2025-05-18T18:45:54.217Z [INFO]: Server running on port 3000
+2025-05-18T18:45:54.300Z [ERROR]: Error connecting to RabbitMQ:
+2025-05-18T18:45:54.301Z [ERROR]: Queue setup error:
+2025-05-18T18:45:55.737Z [INFO]: Connected to MongoDB
+2025-05-18T18:49:25.161Z [INFO]: Server running on port 3000
+2025-05-18T18:49:25.248Z [ERROR]: Error connecting to RabbitMQ:
+2025-05-18T18:49:25.248Z [ERROR]: Queue setup error:
+2025-05-18T18:49:26.098Z [INFO]: Connected to MongoDB
+2025-05-18T18:52:55.774Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T18:52:56.164Z [INFO]: Server running on port 3000
+2025-05-18T18:52:56.248Z [WARN]: Connection failed, retrying in 3 seconds...
+2025-05-18T18:52:57.225Z [INFO]: Connected to MongoDB
+2025-05-18T18:52:59.256Z [INFO]: Attempting to connect to RabbitMQ (attempt 2/5)
+2025-05-18T18:52:59.263Z [WARN]: Connection failed, retrying in 3 seconds...
+2025-05-18T18:53:02.272Z [INFO]: Attempting to connect to RabbitMQ (attempt 3/5)
+2025-05-18T18:53:02.276Z [WARN]: Connection failed, retrying in 3 seconds...
+2025-05-18T18:53:05.284Z [INFO]: Attempting to connect to RabbitMQ (attempt 4/5)
+2025-05-18T18:53:05.290Z [WARN]: Connection failed, retrying in 3 seconds...
+2025-05-18T18:53:08.293Z [INFO]: Attempting to connect to RabbitMQ (attempt 5/5)
+2025-05-18T18:53:08.298Z [ERROR]: Max retries reached for RabbitMQ connection
+2025-05-18T18:53:08.299Z [ERROR]: Failed to connect to RabbitMQ:
+2025-05-18T18:53:08.300Z [ERROR]: Queue setup error:
+2025-05-18T18:58:38.528Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T18:58:38.894Z [INFO]: Server running on port 3000
+2025-05-18T18:58:39.817Z [INFO]: Connected to MongoDB
+2025-05-18T18:58:59.947Z [WARN]: Connection failed, retrying in 3 seconds...
+2025-05-18T18:59:02.949Z [INFO]: Attempting to connect to RabbitMQ (attempt 2/5)
+2025-05-18T18:59:23.975Z [WARN]: Connection failed, retrying in 3 seconds...
+2025-05-18T18:59:26.986Z [INFO]: Attempting to connect to RabbitMQ (attempt 3/5)
+2025-05-18T19:13:11.215Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T19:13:11.597Z [INFO]: Server running on port 3000
+2025-05-18T19:13:11.745Z [INFO]: Successfully connected to RabbitMQ
+2025-05-18T19:13:11.784Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T19:13:12.712Z [INFO]: Connected to MongoDB
+2025-05-18T19:16:22.374Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T19:16:22.834Z [INFO]: Server running on port 3000
+2025-05-18T19:16:22.864Z [INFO]: Successfully connected to RabbitMQ
+2025-05-18T19:16:22.882Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T19:17:56.363Z [ERROR]: MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.fqseu.mongodb.net
+2025-05-18T19:20:10.470Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T19:20:10.868Z [INFO]: Server running on port 3000
+2025-05-18T19:20:10.894Z [INFO]: Successfully connected to RabbitMQ
+2025-05-18T19:20:10.904Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T19:21:48.496Z [ERROR]: MongoDB connection error: queryTxt ETIMEOUT cluster0.fqseu.mongodb.net
+2025-05-18T19:55:17.597Z [ERROR]: RabbitMQ connection error:
+2025-05-18T19:55:17.663Z [WARN]: RabbitMQ connection closed
+2025-05-18T22:22:22.576Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T22:22:23.086Z [INFO]: Server running on port 3000
+2025-05-18T22:22:23.178Z [INFO]: Successfully connected to RabbitMQ
+2025-05-18T22:22:23.185Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:22:24.353Z [INFO]: Connected to MongoDB
+2025-05-18T22:24:14.468Z [INFO]: Server running on port 3000
+2025-05-18T22:24:14.500Z [INFO]: Connected to RabbitMQ
+2025-05-18T22:24:14.501Z [ERROR]: Error connecting to RabbitMQ: getChannel is not a function
+2025-05-18T22:24:14.502Z [ERROR]: Queue setup error: getChannel is not a function
+2025-05-18T22:24:15.623Z [INFO]: Connected to MongoDB
+2025-05-18T22:24:54.316Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T22:24:54.559Z [INFO]: Server running on port 3000
+2025-05-18T22:24:54.617Z [INFO]: Successfully connected to RabbitMQ
+2025-05-18T22:24:54.622Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:24:55.198Z [INFO]: Connected to MongoDB
+2025-05-18T22:30:55.580Z [INFO]: Server running on port 3000
+2025-05-18T22:30:55.626Z [ERROR]: Queue setup error: getChannel is not a function
+2025-05-18T22:30:56.828Z [INFO]: Connected to MongoDB
+2025-05-18T22:31:23.972Z [INFO]: Attempting to connect to RabbitMQ (attempt 1/5)
+2025-05-18T22:31:24.199Z [INFO]: Server running on port 3000
+2025-05-18T22:31:24.218Z [INFO]: Successfully connected to RabbitMQ
+2025-05-18T22:31:24.231Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:31:24.927Z [INFO]: Connected to MongoDB
+2025-05-18T22:34:14.131Z [INFO]: Server running on port 3000
+2025-05-18T22:34:14.263Z [INFO]: Connected to RabbitMQ
+2025-05-18T22:34:14.269Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:34:14.995Z [INFO]: Connected to MongoDB
+2025-05-18T22:34:41.035Z [INFO]: Server running on port 3000
+2025-05-18T22:34:41.080Z [INFO]: Connected to RabbitMQ
+2025-05-18T22:34:41.083Z [INFO]: RabbitMQ connected and consumer started
+2025-05-18T22:34:41.785Z [INFO]: Connected to MongoDB
+2025-05-18T22:38:04.900Z [ERROR]: Error sending email to me.factverse@gmail.com: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a970d64fsm5096056b3a.64 - gsmtp
+2025-05-18T22:38:04.901Z [ERROR]: Notification processing failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a970d64fsm5096056b3a.64 - gsmtp
+2025-05-18T22:38:04.932Z [ERROR]: Error processing notification: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:46:23.161Z [INFO]: Server running on port 3000
+2025-05-18T22:46:23.199Z [INFO]: Connected to RabbitMQ
+2025-05-18T22:46:23.200Z [INFO]: RabbitMQ connected and consumer started
+2025-05-18T22:46:24.232Z [INFO]: Connected to MongoDB
+2025-05-18T22:46:39.931Z [INFO]: Email sent to me.ayushsriv@gmail.com
+2025-05-18T22:46:39.962Z [ERROR]: Notification processing failed: CastError: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:46:39.967Z [ERROR]: Error processing notification: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:50:38.141Z [INFO]: Server running on port 3000
+2025-05-18T22:50:38.159Z [INFO]: Connected to RabbitMQ
+2025-05-18T22:50:38.162Z [INFO]: RabbitMQ connected and consumer started
+2025-05-18T22:50:39.271Z [INFO]: Connected to MongoDB
+2025-05-18T22:51:15.997Z [INFO]: Server running on port 3000
+2025-05-18T22:51:16.019Z [INFO]: Connected to RabbitMQ
+2025-05-18T22:51:16.021Z [INFO]: RabbitMQ connected and consumer started
+2025-05-18T22:51:16.993Z [INFO]: Connected to MongoDB
+2025-05-18T22:56:38.633Z [INFO]: Server running on port 3000
+2025-05-18T22:56:38.657Z [INFO]: Connected to RabbitMQ
+2025-05-18T22:56:38.658Z [INFO]: RabbitMQ connected and consumer started
+2025-05-18T22:56:39.636Z [INFO]: Connected to MongoDB
+2025-05-18T22:57:12.799Z [INFO]: Email sent to me.ayushsriv@gmail.com
+2025-05-18T22:57:12.831Z [ERROR]: Notification processing failed: CastError: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:57:12.835Z [ERROR]: Error processing notification: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T23:03:17.835Z [INFO]: Server running on port 3000
+2025-05-18T23:03:17.867Z [INFO]: Connected to RabbitMQ
+2025-05-18T23:03:17.869Z [INFO]: RabbitMQ connected and consumer started
+2025-05-18T23:03:18.954Z [INFO]: Connected to MongoDB
+2025-05-18T23:03:54.445Z [INFO]: Email sent to me.ayushsriv@gmail.com
+2025-05-18T23:17:16.667Z [INFO]: Server running on port 3000
+2025-05-18T23:17:16.708Z [INFO]: Connected to RabbitMQ
+2025-05-18T23:17:16.712Z [INFO]: RabbitMQ connected and consumer started
+2025-05-18T23:17:17.815Z [INFO]: Connected to MongoDB

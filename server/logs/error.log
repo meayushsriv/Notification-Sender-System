@@ -1,0 +1,29 @@
+2025-05-18T18:45:54.300Z [ERROR]: Error connecting to RabbitMQ:
+2025-05-18T18:45:54.301Z [ERROR]: Queue setup error:
+2025-05-18T18:49:25.248Z [ERROR]: Error connecting to RabbitMQ:
+2025-05-18T18:49:25.248Z [ERROR]: Queue setup error:
+2025-05-18T18:53:08.298Z [ERROR]: Max retries reached for RabbitMQ connection
+2025-05-18T18:53:08.299Z [ERROR]: Failed to connect to RabbitMQ:
+2025-05-18T18:53:08.300Z [ERROR]: Queue setup error:
+2025-05-18T19:13:11.784Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T19:16:22.882Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T19:17:56.363Z [ERROR]: MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.fqseu.mongodb.net
+2025-05-18T19:20:10.904Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T19:21:48.496Z [ERROR]: MongoDB connection error: queryTxt ETIMEOUT cluster0.fqseu.mongodb.net
+2025-05-18T19:55:17.597Z [ERROR]: RabbitMQ connection error:
+2025-05-18T22:22:23.185Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:24:14.501Z [ERROR]: Error connecting to RabbitMQ: getChannel is not a function
+2025-05-18T22:24:14.502Z [ERROR]: Queue setup error: getChannel is not a function
+2025-05-18T22:24:54.622Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:30:55.626Z [ERROR]: Queue setup error: getChannel is not a function
+2025-05-18T22:31:24.231Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:34:14.269Z [ERROR]: Queue setup error: consumeNotifications is not a function
+2025-05-18T22:38:04.900Z [ERROR]: Error sending email to me.factverse@gmail.com: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a970d64fsm5096056b3a.64 - gsmtp
+2025-05-18T22:38:04.901Z [ERROR]: Notification processing failed: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-742a970d64fsm5096056b3a.64 - gsmtp
+2025-05-18T22:38:04.932Z [ERROR]: Error processing notification: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:46:39.962Z [ERROR]: Notification processing failed: CastError: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:46:39.967Z [ERROR]: Error processing notification: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:57:12.831Z [ERROR]: Notification processing failed: CastError: Cast to Number failed for value "NaN" (type number) at path "attempts"
+2025-05-18T22:57:12.835Z [ERROR]: Error processing notification: Cast to Number failed for value "NaN" (type number) at path "attempts"
