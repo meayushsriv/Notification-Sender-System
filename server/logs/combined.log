@@ -124,3 +124,12 @@
 2025-05-19T00:24:06.602Z [INFO]: RabbitMQ connected and consumer started
 2025-05-19T00:24:07.893Z [INFO]: Connected to MongoDB
 2025-05-19T00:26:38.160Z [INFO]: Email sent to me.ayushsriv@gmail.com
+2025-05-19T00:57:45.068Z [INFO]: Server running on port 3000
+2025-05-19T00:57:45.122Z [INFO]: Connected to RabbitMQ
+2025-05-19T00:57:45.127Z [INFO]: RabbitMQ connected and consumer started
+2025-05-19T00:57:46.548Z [INFO]: Connected to MongoDB
+2025-05-19T00:59:05.824Z [INFO]: Server running on port 3000
+2025-05-19T00:59:06.036Z [INFO]: Connected to RabbitMQ
+2025-05-19T00:59:06.041Z [INFO]: RabbitMQ connected and consumer started
+2025-05-19T00:59:06.939Z [INFO]: Connected to MongoDB
+2025-05-19T00:59:42.193Z [INFO]: Email sent to me.ayushsriv@gmail.com

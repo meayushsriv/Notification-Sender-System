@@ -2,6 +2,8 @@
 
 ![Application Demo](demo.gif)
 
+Watch Full Demo : https://drive.google.com/file/d/1d8kjrNSdF2LL0JZmNF2f0uUIOdmUaVHY/view?usp=sharing
+
 A simple and efficient notification service for sending emails, SMS, and push notifications to users. Built with a modern tech stack and designed for ease of use and scalability.
 
 ## Table of Contents 📚
