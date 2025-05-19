@@ -111,3 +111,11 @@
 2025-05-18T23:17:16.708Z [INFO]: Connected to RabbitMQ
 2025-05-18T23:17:16.712Z [INFO]: RabbitMQ connected and consumer started
 2025-05-18T23:17:17.815Z [INFO]: Connected to MongoDB
+2025-05-19T00:15:31.936Z [INFO]: Server running on port 3000
+2025-05-19T00:15:31.978Z [INFO]: Connected to RabbitMQ
+2025-05-19T00:15:31.979Z [INFO]: RabbitMQ connected and consumer started
+2025-05-19T00:15:33.127Z [INFO]: Connected to MongoDB
+2025-05-19T00:18:38.137Z [INFO]: Server running on port 3000
+2025-05-19T00:18:38.175Z [INFO]: Connected to RabbitMQ
+2025-05-19T00:18:38.179Z [INFO]: RabbitMQ connected and consumer started
+2025-05-19T00:18:39.606Z [INFO]: Connected to MongoDB

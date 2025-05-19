@@ -48,9 +48,6 @@ export default function SendNotification() {
 
   return (
     <Box sx={{ maxWidth: 600, mx: "auto", p: 3 }}>
-      <Typography variant="h4" gutterBottom>
-        Send Notification
-      </Typography>
       <form onSubmit={handleSubmit}>
         <TextField
           fullWidth
@@ -63,7 +60,6 @@ export default function SendNotification() {
         />
 
         <FormControl fullWidth margin="normal">
-          <InputLabel>Notification Type</InputLabel>
           <Select
             name="type"
             value={formData.type}

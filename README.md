@@ -2,6 +2,8 @@
 
 A notification service with React Vite frontend and Node.js backend.
 
+![Demo](demo.gif)
+
 ## Features
 
 - Send notifications via email, SMS, and push
