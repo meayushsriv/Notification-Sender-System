@@ -1,4 +1,3 @@
-```markdown
 # Notification Service 🚀
 
 ![Application Demo](demo.gif)
@@ -42,6 +41,7 @@ A simple and efficient notification service for sending emails, SMS, and push no
 ---
 
 ## Project Structure 🗂️
+
 ```
 
 notification-service/
@@ -82,7 +82,7 @@ notification-service/
 ├── .gitignore
 └── README.md
 
-````
+```
 
 ---
 
@@ -102,7 +102,7 @@ Content-Type: application/json
   "title": "string",
   "message": "string"
 }
-````
+```
 
 #### Get User Notifications
 
