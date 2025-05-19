@@ -7,7 +7,6 @@ async function publishNotification(notificationData) {
   try {
     const channel = getChannel();
 
-    // Ensure attempts is initialized properly
     const notification = new Notification({
       ...notificationData,
       attempts: notificationData.attempts || 0,
@@ -21,7 +20,7 @@ async function publishNotification(notificationData) {
       Buffer.from(
         JSON.stringify({
           id: notification._id,
-          ...notification.toObject(), // Ensures proper serialization
+          ...notification.toObject(),
         })
       ),
       { persistent: true }

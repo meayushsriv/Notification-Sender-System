@@ -26,7 +26,6 @@ const NotificationSchema = new mongoose.Schema(
   }
 );
 
-// Add pre-save validation
 NotificationSchema.pre("save", function (next) {
   if (isNaN(this.attempts)) {
     this.attempts = 0;

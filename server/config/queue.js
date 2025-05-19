@@ -22,7 +22,6 @@ const connectToQueue = async () => {
 
     logger.info("Connected to RabbitMQ");
 
-    // Start consuming messages immediately after connection
     await channel.consume(config.rabbitMQ.queue, async (msg) => {
       if (msg) {
         const notification = JSON.parse(msg.content.toString());
@@ -50,7 +49,6 @@ const getChannel = () => {
   return channel;
 };
 
-// Remove consumeNotifications from exports since we handle it internally
 module.exports = {
   connectToQueue,
   getChannel,

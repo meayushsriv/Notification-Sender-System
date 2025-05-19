@@ -1,7 +1,6 @@
 const Notification = require("../models/Notification");
 const { publishNotification } = require("../queues/notificationQueue");
 
-// Send notification
 const sendNotification = async (req, res) => {
   try {
     const { userId, type, title, message } = req.body;

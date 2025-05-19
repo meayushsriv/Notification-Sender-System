@@ -7,7 +7,6 @@ const logger = require("../utils/logger");
 const MAX_RETRIES = 3;
 
 const processNotification = async (notification) => {
-  // Safely parse attempts with fallback to 0
   const currentAttempts = parseInt(notification.attempts) || 0;
 
   try {
